@@ -1,0 +1,6 @@
+requests
+pandas
+uuid
+pytest
+selenium
+pyodbc
